@@ -1,5 +1,5 @@
-# Hi 👋, I'm Jave Anthony Espiritu
-**Software Developer (AI/ML-inclined)** · Batangas City, PH
+# Hi 👋, I'm Jave
+**Software Developer** · Batangas City, PH
 
 I build practical software and tinker with models. Most days I’m either deep in a novel’s quiet chapters or poring over technical documentation—both sharpen how I design APIs, reason about data, and write maintainable code.
 
